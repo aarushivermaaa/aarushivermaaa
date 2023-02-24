@@ -8,7 +8,7 @@
 <p align="center">Hey👋, I'm Aarushi Verma</p>
 
 <!--📏LINE--><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<br> I am a Flutter developer from Vellore Institute of Technology. I am passionate about building beautiful and responsive mobile applications. I also have some experience with Java programming.<br><br>-📫 How to reach me : work.aarushiverma@gmail.com
+<br> I am a Flutter developer from Vellore Institute of Technology. I am passionate about building beautiful and responsive mobile applications. I also have some experience with Java and C++ programming.<br><br>-📫 How to reach me : work.aarushiverma@gmail.com
 <img align='right' src="https://media.tenor.com/HKUc3og5OxAAAAAM/gato-cat.gif" width="200" height="200">
    
 <br>
