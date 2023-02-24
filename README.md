@@ -3,12 +3,12 @@
    
 <!--🖼️RICK-->
 <p align="center">
-<img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
+<img src="[https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif](https://media.tenor.com/-KgmJMneKM8AAAAC/hello-anime.gif)" height="240" width="370">
    
 <p align="center">Hey👋, I'm Aarushi Verma</p>
 
 <!--📏LINE--><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<br> I am a Flutter developer from Vellore Institute of Technology. I am passionate about building beautiful and responsive mobile applications. I also have some experience with Java programming.<br><br>-📫 How to reach me : work.ayushthakur@gmail.com
+<br> I am a Flutter developer from Vellore Institute of Technology. I am passionate about building beautiful and responsive mobile applications. I also have some experience with Java programming.<br><br>-📫 How to reach me : work.aarushiverma@gmail.com
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" height="200">
    
 <br>
