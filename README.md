@@ -9,7 +9,7 @@
 
 <!--📏LINE--><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br> I am a Flutter developer from Vellore Institute of Technology. I am passionate about building beautiful and responsive mobile applications. I also have some experience with Java programming.<br><br>-📫 How to reach me : work.aarushiverma@gmail.com
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" height="200">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.tenor.com/YhA5nO9jiCkAAAAC/ika-musume.gif" width="200" height="200">
    
 <br>
 <b>👇 Hit in Your Console or Terminal to Connect With Me.</b>
