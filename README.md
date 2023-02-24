@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
    
-<!--🖼️RICK-->
+<!--🖼️ibuki-->
 <p align="center">
 <img src="https://media.tenor.com/MmTMEtRSIOUAAAAC/nijima-ibuki-d4dj-first-mix.gif" height="240" width="370">
    
@@ -9,7 +9,7 @@
 
 <!--📏LINE--><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br> I am a Flutter developer from Vellore Institute of Technology. I am passionate about building beautiful and responsive mobile applications. I also have some experience with Java programming.<br><br>-📫 How to reach me : work.aarushiverma@gmail.com
-<img align='right' src="(https://media.tenor.com/p0kz7NOqxTkAAAAM/kaito-typing.gif)" width="200" height="200">
+<img align='right' src="https://media.tenor.com/HKUc3og5OxAAAAAM/gato-cat.gif" width="200" height="200">
    
 <br>
 <b>👇 Hit in Your Console or Terminal to Connect With Me.</b>
