@@ -3,7 +3,7 @@
    
 <!--🖼️RICK-->
 <p align="center">
-<img src="[https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif](https://media.tenor.com/-KgmJMneKM8AAAAC/hello-anime.gif)" height="240" width="370">
+<img src="https://media.tenor.com/MmTMEtRSIOUAAAAC/nijima-ibuki-d4dj-first-mix.gif" height="240" width="370">
    
 <p align="center">Hey👋, I'm Aarushi Verma</p>
 
